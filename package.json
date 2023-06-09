@@ -1,0 +1,17 @@
+{
+  "name": "tweet-instapost",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^4.3.9"
+  },
+  "dependencies": {
+    "dom-to-image": "^2.6.0"
+  }
+}
